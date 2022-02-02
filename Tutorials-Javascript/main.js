@@ -9,7 +9,7 @@ function greeting(parameterVariable) {
 }
 
 
-// **********  Day 1: Arithmetic Operators ********** //
+// ********** Day 1: Functions ********** //
 
 function getArea(length, width) {
     let area;
@@ -24,3 +24,5 @@ function getPerimeter(length, width) {
     perimeter = 2 * (length + width);
     return perimeter;
 }
+
+ // ********** Day 1: Functions ********** //
