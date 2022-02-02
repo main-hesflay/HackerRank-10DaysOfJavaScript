@@ -9,7 +9,7 @@ function greeting(parameterVariable) {
 }
 
 
-// ********** Day 1: Functions ********** //
+// **********  Day 1: Arithmetic Operators ********** //
 
 function getArea(length, width) {
     let area;
