@@ -9,7 +9,7 @@ function greeting(parameterVariable) {
 }
 
 
- // ********** Day 1: Functions ********** //
+ // ********** Day 1: Aritmetic Operators ********** //
 
 function getArea(length, width) {
     let area;
@@ -28,28 +28,13 @@ function getPerimeter(length, width) {
   // ********** Day 1: Functions ********** //
 
 
-
-  // ********** Day 2: Loops ********** //
-
-
-
-
-  // **********  Day:2 Conditional Statements: If-Else ********** //
-
-
-
-  // **********  Day:2 Conditional Statements: If-Else ********** //
-
-
-
-  // ********** Day 2: Conditional Statements: Switch ********** //
-
-
-
-
-  // ********** Day 3: Arrays ********** //
-
-
-
   
- // ********** Day 3: Try, Catch, and Finally ********** //
+ // ********** Day 2: Conditional Statements: Switch ********** //
+
+
+
+// ********** Day 3: Intro to Conditional Statements ********** //
+
+
+
+// ********** Day 3: Arrays ********** //
