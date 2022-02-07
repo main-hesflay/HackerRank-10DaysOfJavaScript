@@ -27,14 +27,14 @@ function getPerimeter(length, width) {
 
   // ********** Day 1: Functions ********** //
 
-
   
  // ********** Day 2: Conditional Statements: Switch ********** //
 
 
+// ********** Day 2: Loops ********** //
+
 
 // ********** Day 3: Intro to Conditional Statements ********** //
-
 
 
 // ********** Day 3: Arrays ********** //
