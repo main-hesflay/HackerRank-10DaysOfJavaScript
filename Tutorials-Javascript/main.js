@@ -36,7 +36,6 @@ function factorial(n) {
     return finalVal;
 }
 
-
 function main() {
     const n = +(readLine());
     
@@ -88,7 +87,6 @@ function getSecondLargest(nums) {
         return a - b;
     }
 }
-
 
 function main() {
     const n = +(readLine());
